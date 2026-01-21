@@ -12,5 +12,8 @@
 	],
 	"observability": {
 		"enabled": true
+	},
+	"triggers": {
+		"cron": ["*/15 * * * *"]
 	}
 }
